@@ -5,3 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 git statusgit statusgit statusgit status
 Creating a new branch is quick and simple.
+add merge
